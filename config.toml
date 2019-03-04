@@ -65,6 +65,12 @@ googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
 	weight = 100
 
 [[menu.main]]
+	name   = "安装"
+	identifier = "installation"
+	url    = "/installation/"
+	weight = 200
+
+[[menu.main]]
 	name   = "Service Profile"
 	identifier = "service-profile"
 	url    = "/service-profile/"
